@@ -1,0 +1,1 @@
+cmd_../mediatek/platform/mt6575/kernel/drivers/nand/built-in.o :=  arm-eabi-ld.bfd -EL    -r -o ../mediatek/platform/mt6575/kernel/drivers/nand/built-in.o ../mediatek/platform/mt6575/kernel/drivers/nand/nand.o ../mediatek/platform/mt6575/kernel/drivers/nand/bmt.o ../mediatek/platform/mt6575/kernel/drivers/nand/partition_mt.o 

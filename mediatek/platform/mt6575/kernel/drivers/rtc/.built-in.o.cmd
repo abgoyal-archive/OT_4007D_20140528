@@ -1,0 +1,1 @@
+cmd_../mediatek/platform/mt6575/kernel/drivers/rtc/built-in.o :=  arm-eabi-ld.bfd -EL    -r -o ../mediatek/platform/mt6575/kernel/drivers/rtc/built-in.o ../mediatek/platform/mt6575/kernel/drivers/rtc/mtk_rtc.o 

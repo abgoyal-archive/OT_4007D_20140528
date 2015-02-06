@@ -1,0 +1,1 @@
+cmd_../mediatek/custom/out/jrdhz75_gb2_sensors/kernel/usb/built-in.o :=  arm-eabi-ld.bfd -EL    -r -o ../mediatek/custom/out/jrdhz75_gb2_sensors/kernel/usb/built-in.o ../mediatek/custom/out/jrdhz75_gb2_sensors/kernel/usb/mtk_usb_custom.o 

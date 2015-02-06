@@ -1,0 +1,14 @@
+
+#ifndef __NAND_DEVICE_LIST_H__
+#define __NAND_DEVICE_LIST_H__
+
+static const flashdev_info gen_FlashTable[]={
+	{0xECBC, 0x006662, 5, 16, 512, 256, 4096, 128, 0x21044333, "KA100O015E_BJ", 0},
+	{0x2CBC, 0x906654, 5, 16, 512, 256, 4096, 224, 0x21044333, "MT29C4G48MAAH", 0},
+	{0x98BC, 0x9066FF, 5, 16, 512, 256, 4096, 128, 0x10001001, "TYBC0A111557K", 0},
+	{0xECBC, 0x006656, 5, 16, 512, 256, 4096, 128, 0x10801011, "K524G2GACJ_B0", 3},
+	{0x0000, 0x000000, 0, 0, 0, 0, 0, 0, "xxxxxxxxxx", 0},
+};
+
+
+#endif

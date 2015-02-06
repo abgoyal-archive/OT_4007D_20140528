@@ -1,0 +1,4 @@
+kernel/../mediatek/platform/mt6575/kernel/drivers/ccci/ccci_plat.ko
+kernel/../mediatek/platform/mt6575/kernel/drivers/gpu/pvr/pvrsrvkm.ko
+kernel/../mediatek/platform/mt6575/kernel/drivers/gpu/pvr/mtklfb.ko
+kernel/../mediatek/platform/mt6575/kernel/drivers/gpu/pvr/mtkbc.ko

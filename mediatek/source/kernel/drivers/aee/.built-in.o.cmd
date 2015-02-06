@@ -1,0 +1,1 @@
+cmd_../mediatek/source/kernel/drivers/aee/built-in.o :=  arm-eabi-ld.bfd -EL    -r -o ../mediatek/source/kernel/drivers/aee/built-in.o ../mediatek/source/kernel/drivers/aee/aed/built-in.o ../mediatek/source/kernel/drivers/aee/common/built-in.o ../mediatek/source/kernel/drivers/aee/ipanic/built-in.o 

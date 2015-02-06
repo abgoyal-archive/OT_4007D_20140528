@@ -1,0 +1,1 @@
+cmd_drivers/scsi/scsi_wait_scan.ko := arm-eabi-ld.bfd -EL -r  -T /local/build/sourcecode/vL3V/kernel/scripts/module-common.lds --build-id -o drivers/scsi/scsi_wait_scan.ko drivers/scsi/scsi_wait_scan.o drivers/scsi/scsi_wait_scan.mod.o
